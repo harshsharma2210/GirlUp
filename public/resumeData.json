@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "GirlUp",
+    "occupation": "believe in the power of girls",
+    "description": "Girls have a tremendous, often untapped power to change the world. Girl Up helps girls access their inner power to advance the skills, rights, and opportunities of girls everywhere.",
+    "image": "pngfind.com-up-png-2090041.png",
+    "bio": "GirlUp Campaign was founded by the United Nations Foundation in 2010. The campaign was characterized as urgent, highlighting the need for gender equity and women empowerment, especially for adolescent girls in regressive places.GirlUp chapters like GirlUp Ludhiana are the heart and soul of this mission. These chapters bring together like-minded, compassionate and hard-working individuals who are eager to see significant change in the world.......",
+    "contactmessage": "Get in touch.",
+    "email": "",
+    "phone": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com",
+        "className": "fa fa-twitter "
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skills": [
+      {
+        "name": "The Team",
+        "img": "",
+        "alt": "",
+        "button": "Join Us"
+      },
+      {
+        "name": "Contributions",
+        "img": "",
+        "button": "Explore"
+      },
+      {
+        "name": "Events",
+        "img": "",
+        "button": "Attend"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Rubaroo",
+        "category": "Our GirlUp chapter started the talk series Rubaroo-from us to you. Here we call in guest speakers to enlighten the audience with valuable knowledge on a certain agenda.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Talk cafe",
+        "category": "talk about issues that are considered a taboo and have tried to normalise & increase the awareness about the same.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Enactus femtalks",
+        "category": "FEMTALKS is a revolutionary series of Panel Discussions by ENACTUS THAPAR on issues that matter to the feminine gender. It is under the umbrella of Project Naritva.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Rubaroo with other GirlUps",
+        "category": "Rubaroo -From Us to You something very special and auspicious to GirlUp  Ludhiana ",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Global Goals",
+        "category": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Rotaract on ground project",
+        "category": "The Rotary International is a widely recognized Non-Profit organization, a club of which is situated in Ludhiana. Volunteers from the same and GirlUp Ludhiana were honored to be called for a visit to Ekjot Viklang School for Diwali Celebrations.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Project Streedhan in collab with Girlup India",
+        "category": "GirlUp Ludhiana collaborated with Girlup India to work on 'Project Period' - a month long campaign that pushed for sustainable menstrual health practices, raised funds for the purpose and also advocated for including that in the national guidelines.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Orange the world",
+        "category": "The 16 days between 25 November, the International Day for the Elimination of Violence against Women, and 10 December, Human Rights Day, are known as the 16 Days of Activism against Gender-Based Violence Campaign , a time to galvanize action to end violence against women and girls around the world. ",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "blogs": {
+    "blogs": [
+      {
+        "text": "GirlUp Blog 1",
+        "user": "GirlUp"
+      },
+      {
+        "text": "GirlUp Blog 2",
+        "user": "GirlUp"
+      },
+      {
+        "text": "GirlUp Blog 3",
+        "user": "GirlUp"
+      }
+    ]
+  }
+}
